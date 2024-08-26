@@ -1,0 +1,1 @@
+I wasn't able to git push through the terminal, so im doing it again through GUI. Its asking me for authentication but I think I tried putting my password so many times that im not able to anymore.
